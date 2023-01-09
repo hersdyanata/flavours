@@ -5,10 +5,10 @@
 	# Hermansyah Handya Pranata
 	# Created and tested using PHP 8.2.1
 
-	# 3. Char Exist - Easy
-	# Input: arr = ['abcdde', 'baccd', 'eeabg']
-	# Output: 2
-	# Explanation: Only a and b occur in every array
+	# 3. Anagram - Medium
+	# Input: a = "anagram", b = "nagaram"
+	# Output: true
+	# Explanation: An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
 */
 
 function check_anagram($string1, $string2){
